@@ -17,7 +17,7 @@ The time we greeted you.
 ## Usage
 
 ```yaml
-uses: actions/hello-world-docker-action@v1
+uses: usgs-coupled/hw-docker-action@v4
 with:
   who-to-greet: 'Mona the Octocat'
 ```
